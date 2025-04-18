@@ -59,6 +59,7 @@ import io.kubernetes.client.openapi.auth.ApiKeyAuth;
  * <p>ApiClient class.</p>
  */
 public class ApiClient {
+    //test
 
     private String basePath = "http://localhost";
     protected List<ServerConfiguration> servers = new ArrayList<ServerConfiguration>(Arrays.asList(
